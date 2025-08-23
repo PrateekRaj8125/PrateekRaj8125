@@ -11,6 +11,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prateek-raj-9633412b0//)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github&logoColor=white)](https://github.com/PrateekRaj8125)
 [![Gmail](https://img.shields.io/badge/Email-Contact-red?logo=gmail&logoColor=white)](mailto:prateek.raj.indt@gmail.com)
+[![X (Twitter)](https://img.shields.io/badge/Twitter-Follow-1DA1F2?logo=twitter&logoColor=white)](https://x.com/Prateek_Raj8125)
+[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?logo=discord&logoColor=white)](https://discordapp.com/users/1077686965752844319)
 
 ---
 

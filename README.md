@@ -1,8 +1,9 @@
 # Hi there, I'm Prateek Raj 👋
 
 ## 🚀 About Me
-✨ Aspiring Full Stack Developer | Web Developer | Java Programmer | Writer 
-🎓 Passionate developer, learner, and problem solver.  
+✨ Aspiring Full Stack Developer | Web Developer | Java Programmer | Writer   
+🎓 Passionate developer, learner, and problem solver.
+💡 Exploring Data Structures, Algorithms, and System Design.  
 🌱 Currently on my **100 Days of DSA Challenge**.  
 
 ---

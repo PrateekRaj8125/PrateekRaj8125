@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Hello%20There!👋&fontSize=40&fontAlignY=35&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=🚀%20Passionate%20Developer%20|%20DSA%20Enthusiast%20|%20Open%20Source%20Contributor&fontSize=22&fontAlignY=35&animation=twinkling" />
 </p>
 
 
@@ -32,7 +32,7 @@
   
   ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrateekRaj8125&show_icons=true&theme=radical) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PrateekRaj8125&theme=radical) |
 |---|---|
@@ -40,21 +40,18 @@
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PrateekRaj8125&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) 
 
+![Visitor Count](https://komarev.com/ghpvc/?username=PrateekRaj8125&color=blue&style=flat-square)
+
+![Followers](https://img.shields.io/github/followers/PrateekRaj8125?label=Followers&style=social)  
+
+![Stars](https://img.shields.io/github/stars/PrateekRaj8125?label=Stars&style=social)
+
 ---
 
 ## 🧑‍💻 Coding Stats
 | [![LeetCode Stats](https://leetcard.jacoblin.cool/Prateek_Raj8125?theme=dark&font=Nunito&ext=heatmap)](https://leetcode.com/Prateek_Raj8125/) | [![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PrateekRaj8125&layout=compact)](https://wakatime.com/@PrateekRaj8125) |
 |---|---|
 
-
----
-## 👤 Profile Insights
-
-![Visitor Count](https://komarev.com/ghpvc/?username=PrateekRaj8125&color=blue&style=flat-square)
-
-![Followers](https://img.shields.io/github/followers/PrateekRaj8125?label=Followers&style=social)  
-
-![Stars](https://img.shields.io/github/stars/PrateekRaj8125?label=Stars&style=social)
 
 ---
 

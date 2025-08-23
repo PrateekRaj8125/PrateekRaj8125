@@ -1,11 +1,15 @@
-# Hi there, I'm Prateek Raj 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Hello%20There!👋&fontSize=40&fontAlignY=35&animation=twinkling" />
+</p>
+
 
 ## 🚀 About Me
-✨ Aspiring Full Stack Developer | Web Developer | Java Programmer | Writer   
-🎓 Passionate developer, learner, and problem solver.  
-💡 Exploring Data Structures, Algorithms, and System Design.  
-🌱 Currently on my **100 Days of DSA Challenge**.  
-
+```yaml
+Name: Prateek Raj
+Role: Developer & Learner
+Interests: System Design, Algorithms, Open Source
+Fun Fact: Gaming Addict 🎮
+```
 ---
 
 ## 🌐 Connect with me
@@ -18,6 +22,8 @@
 ---
 
 ## 💻 Tech Stack
+<p aligm="left">
+  
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
@@ -26,11 +32,18 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
+</p>
+
 ---
 
 ## 📊 GitHub Stats
 ![Prateek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrateekRaj8125&show_icons=true&theme=radical)
+
+<p align="right">
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrateekRaj8125&layout=compact&theme=radical)
+
+</p>
 
 ---
 
@@ -41,3 +54,7 @@
 
 ## ✨ Fun Fact
 ⚡ I love solving coding challenges and building real-world projects that make life easier.
+
+---
+
+![Visitor Count](https://komarev.com/ghpvc/?username=PrateekRaj8125&color=blue&style=flat-square)

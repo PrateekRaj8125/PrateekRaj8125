@@ -3,13 +3,13 @@
 </p>
 
 
-## 🙋 About Me
-```yaml
-Name: Prateek Raj
-Role: Developer & Learner
-Interests: System Design, Algorithms, Open Source
-Fun Fact: Gaming Addict 🎮
-```
+## 🙋 About Me  
+
+- 👨‍💻 **Name:** Prateek Raj  
+- 💼 **Role:** Software Developer & Lifelong Learner  
+- 🌱 **Currently Learning:** Advanced DSA, Backend Development, Scalable Systems  
+- 🎯 **Interests:** System Design, Algorithms, Open Source, Competitive Programming  
+- 🎮 **Fun Fact:** I turn coffee ☕ into clean code and gaming 🎮 into strategy lessons!  
 ---
 
 ## 📂 Featured Projects

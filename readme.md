@@ -36,11 +36,15 @@ Fun Fact: Gaming Addict 🎮
 
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrateekRaj8125&show_icons=true&theme=radical) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PrateekRaj8125&theme=radical) |
 |---|---|
-| [![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PrateekRaj8125&layout=compact)](https://wakatime.com/@PrateekRaj8125) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrateekRaj8125&layout=compact&&show_icons=true&theme=radical)](https://github.com/PrateekRaj8125/github-readme-stats) |
+| ![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PrateekRaj8125&theme=radical) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrateekRaj8125&layout=compact&&show_icons=true&theme=radical)](https://github.com/PrateekRaj8125/github-readme-stats) |
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PrateekRaj8125&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) 
 
+---
 
+## 🧑‍💻 Coding Stats
+| [![LeetCode Stats](https://leetcard.jacoblin.cool/Prateek_Raj8125?theme=dark&font=Nunito&ext=heatmap)](https://leetcode.com/Prateek_Raj8125/) | [![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PrateekRaj8125&layout=compact)](https://wakatime.com/@PrateekRaj8125) |
+|---|---|
 
 
 ---

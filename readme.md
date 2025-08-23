@@ -56,6 +56,6 @@ Fun Fact: Gaming Addict 🎮
 
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrateekRaj8125&show_icons=true&theme=radical) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PrateekRaj8125&theme=radical) |
 |---|---|
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrateekRaj8125&layout=compact&&show_icons=true&theme=radical)](https://github.com/PrateekRaj8125/github-readme-stats) | ![GitHub Snake dark](https://raw.githubusercontent.com/PrateekRaj8125/PrateekRaj8125/output/snake.svg#gh-dark-mode-only) |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrateekRaj8125&layout=compact&&show_icons=true&theme=radical)](https://github.com/PrateekRaj8125/github-readme-stats) | ![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PrateekRaj8125&theme=radical) |
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PrateekRaj8125&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)  

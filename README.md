@@ -7,7 +7,7 @@
 
 - 👨‍💻 **Name:** Prateek Raj  
 - 💼 **Role:** Software Developer & Lifelong Learner  
-- 🌱 **Currently Learning:** Advanced DSA, Backend Development, Scalable Systems  
+- 🌱 **Currently Learning:** Advanced DSA, Backend Development, Full Scale Developement  
 - 🎯 **Interests:** System Design, Algorithms, Open Source, Competitive Programming  
 - 🎮 **Fun Fact:** I turn coffee ☕ into clean code and gaming 🎮 into strategy lessons!  
 ---

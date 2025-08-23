@@ -12,6 +12,14 @@ Fun Fact: Gaming Addict 🎮
 ```
 ---
 
+![Visitor Count](https://komarev.com/ghpvc/?username=PrateekRaj8125&color=blue&style=flat-square)
+
+![Followers](https://img.shields.io/github/followers/PrateekRaj8125?label=Followers&style=social)  
+
+![Stars](https://img.shields.io/github/stars/PrateekRaj8125?label=Stars&style=social)
+
+---
+
 ## 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prateek-raj-9633412b0//)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github&logoColor=white)](https://github.com/PrateekRaj8125)
@@ -52,9 +60,4 @@ Fun Fact: Gaming Addict 🎮
 
 ---
 
-## ✨ Fun Fact
-⚡ I love solving coding challenges and building real-world projects that make life easier.
 
----
-
-![Visitor Count](https://komarev.com/ghpvc/?username=PrateekRaj8125&color=blue&style=flat-square)

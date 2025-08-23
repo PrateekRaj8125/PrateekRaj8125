@@ -12,13 +12,21 @@ Fun Fact: Gaming Addict 🎮
 ```
 ---
 
+## Featured Projects
+- **[IoT Project on Automated Curtain System](https://github.com/PrateekRaj8125/IoT-Project-on-Automated-Curtain-System):** An IoT Project to design and implement a voice-activated automatic curtain mechanism that can open and close curtains using Google Assistant voice commands via the Sinric Pro platform. 
+
+---
+
+## GitHub Statistics
+
 ![Visitor Count](https://komarev.com/ghpvc/?username=PrateekRaj8125&color=blue&style=flat-square)
 
 ![Followers](https://img.shields.io/github/followers/PrateekRaj8125?label=Followers&style=social)  
 
 ![Stars](https://img.shields.io/github/stars/PrateekRaj8125?label=Stars&style=social)
 
----
+
+
 
 ## 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prateek-raj-9633412b0//)
@@ -27,9 +35,9 @@ Fun Fact: Gaming Addict 🎮
 [![X (Twitter)](https://img.shields.io/badge/Twitter-Follow-1DA1F2?logo=twitter&logoColor=white)](https://x.com/Prateek_Raj8125)
 [![Discord](https://img.shields.io/badge/Discord-Join-5865F2?logo=discord&logoColor=white)](https://discordapp.com/users/1077686965752844319)
 
----
 
-## 💻 Tech Stack
+
+## 💻 Languages
 <p aligm="left">
   
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
@@ -45,19 +53,9 @@ Fun Fact: Gaming Addict 🎮
 ---
 
 ## 📊 GitHub Stats
-![Prateek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrateekRaj8125&show_icons=true&theme=radical)
 
-<p align="right">
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrateekRaj8125&layout=compact&theme=radical)
+![Prateek Raj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrateekRaj8125&show_icons=true&theme=radical)   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PrateekRaj8125&theme=radical)
 
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrateekRaj8125&layout=compact&&show_icons=true&theme=radical)](https://github.com/PrateekRaj8125/github-readme-stats)  
 
----
-
-## 🔥 Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PrateekRaj8125&theme=radical)
-
----
-
-
+[![Prateek's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PrateekRaj8125&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) 

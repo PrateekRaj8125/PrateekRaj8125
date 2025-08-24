@@ -62,3 +62,6 @@
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white)](https://discordapp.com/users/1077686965752844319)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://facebook.com/prateek.raj8125)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:prateek.raj.indt@gmail.com)
+<p align="center">
+  Contact me: prateek.raj.indt@gmail.com
+</p>

@@ -34,11 +34,14 @@
 
 ## 📊 GitHub Stats
 
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrateekRaj8125&show_icons=true&theme=radical) | ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=PrateekRaj8125&theme=radical) |
-|---|---|
-| ![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PrateekRaj8125&theme=radical) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrateekRaj8125&layout=compact&&show_icons=true&theme=radical)](https://github.com/PrateekRaj8125/github-readme-stats) |
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PrateekRaj8125&show_icons=true&theme=radical&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=PrateekRaj8125&theme=radical&hide_border=true" width="48%"/>
+</p>
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PrateekRaj8125&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph) 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PrateekRaj8125&theme=high-contrast&hide_border=true"/>
+</p>
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=PrateekRaj8125&color=blue&style=flat-square)
 

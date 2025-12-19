@@ -60,11 +60,28 @@
 
 ## 🌐 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prateek-raj-9633412b0/)
-[![X (Twitter)](https://img.shields.io/badge/X-000000.svg?logo=X&logoColor=white)](https://x.com/Prateek_Raj8125)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white)](https://discordapp.com/users/1077686965752844319)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://facebook.com/prateek.raj8125)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:prateek.raj.indt@gmail.com)
 <p align="center">
-  Contact me: prateek.raj.indt@gmail.com
+  <p align="center">
+  <a href="https://www.linkedin.com/in/prateek-raj-9633412b0/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://x.com/Prateek_Raj8125">
+    <img src="https://img.shields.io/badge/X-000000?logo=X&logoColor=white"/>
+  </a>
+  <a href="https://discordapp.com/users/1077686965752844319">
+    <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white"/>
+  </a>
+  <a href="mailto:prateek.raj.indt@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  📫 <b>prateek.raj.indt@gmail.com</b>
+</p>
+
+</p>
+
+<p align="center">
+  📫 <b>prateek.raj.indt@gmail.com</b>
 </p>

@@ -9,7 +9,11 @@
 - 💼 **Role:** Software Developer & Lifelong Learner  
 - 🌱 **Currently Learning:** Advanced DSA, Backend Development, Full Scale Development  
 - 🎯 **Interests:** System Design, Algorithms, Open Source, Competitive Programming  
-- 🎮 **Fun Fact:** I turn coffee ☕ into clean code and gaming 🎮 into strategy lessons!  
+- 🎮 **Fun Fact:** I turn coffee ☕ into clean code and gaming 🎮 into strategy lessons!
+  
+Computer Science student interested in machine learning, AI engineering, and full stack development.
+Working with Java, C, SQL, and core web technologies, with a growing focus on backend systems and DevOps.
+
 ---
 
 ## 📂 Featured Projects

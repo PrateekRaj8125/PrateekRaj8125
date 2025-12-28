@@ -35,7 +35,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PrateekRaj8125&show_icons=true&theme=radical&hide_border=true" width="48%"/>
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PrateekRaj8125&theme=radical&utcOffset=5.5" width="32%" />
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=PrateekRaj8125&theme=radical&hide_border=true" width="48%"/>
 </p>
 
@@ -51,10 +52,11 @@
 
 ---
 
-## 🧑‍💻 Coding Stats
-| [![LeetCode Stats](https://leetcard.jacoblin.cool/Prateek_Raj8125?theme=dark&font=Nunito&ext=heatmap)](https://leetcode.com/Prateek_Raj8125/) | [![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PrateekRaj8125&layout=compact)](https://wakatime.com/@PrateekRaj8125) |
-|---|---|
+## 🧠 Coding Platforms
 
+[![LeetCode](https://img.shields.io/badge/LeetCode-Prateek_Raj8125-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Prateek_Raj8125/)
+[![CodeForces](https://img.shields.io/badge/Codeforces-Prateek_Raj8125-blue?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Prateek_Raj8125)
+[![HackerRank](https://img.shields.io/badge/HackerRank-crajprateek-green?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/crajprateek)
 
 ---
 

@@ -18,6 +18,8 @@ Working with Java, C, SQL, and core web technologies, with a growing focus on ba
 
 ## 📂 Featured Projects
 
+- **[Intelligent Hybrid Recommendation System](https://github.com/PrateekRaj8125/Intelligent-Hybrid-Recommendation-System):** A machine learning-powered recommendation system that combines Natural Language Processing (NLP), MBTI personality compatibility, location similarity, and adaptive feedback learning to generate personalized user recommendations. [-> Live Server](https://intelligent-hybrid-recommendation-system-0.streamlit.app/)
+
 - **[Smart PQC Gateway](https://github.com/PrateekRaj8125/Smart-PQC-Gateway):** Smart-PQC-Gateway is an AES vs PQC algorithm usage checker packaged as a small Flask web app. It lets you submit a text payload or file, then shows whether the system used Standard AES or Hybrid PQC, why that route was chosen, and what network impact came with that decision.
 
 - **[IoT Project on Automated Curtain System](https://github.com/PrateekRaj8125/IoT-Project-on-Automated-Curtain-System):** An IoT Project to design and implement a voice-activated automatic curtain mechanism that can open and close curtains using Google Assistant voice commands via the Sinric Pro platform. 

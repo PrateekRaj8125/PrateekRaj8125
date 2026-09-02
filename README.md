@@ -49,10 +49,6 @@ Working with Java, C, SQL, and core web technologies, with a growing focus on ba
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=PrateekRaj8125&theme=radical&hide_border=true" width="48%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PrateekRaj8125&theme=high-contrast&hide_border=true"/>
-</p>
-
 ![Visitor Count](https://komarev.com/ghpvc/?username=PrateekRaj8125&color=blue&style=flat-square)
 
 ![Followers](https://img.shields.io/github/followers/PrateekRaj8125?label=Followers&style=social)  
